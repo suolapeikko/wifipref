@@ -4,6 +4,7 @@ Command line utility for making a Wi-Fi network as preferred in SSID order list 
 
 ## Usage
 
-wifipref <SSID>
+`wifipref <SSID>`
 
+Example:
 `$ ./wifipref "My Preferred Wi-Fi"`
